@@ -15,11 +15,10 @@ I've had an on and off relationship with social media. I deactivated my Facebook
 
 I've always had this creeping feeling that somehow we're being manipulated by these platforms; that they're messing with our individuality.
 
-> If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own.
+> If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own. - Epictetus
 
-Epictetus
-
-In 2018, everybody was going on these "shoots", to take pictures for their feeds. Going out was not just something people did for fun, but they had a clear agenda of taking "Instagrammable" pictures, fake candid(“plandids”). You went home and start editing those pictures, I've known guys who'd face tune their facial features to look more "Instaworthy" and search for captions on Google and slap it on whether it was relevant to the picture or not as long as it sounded "cool".
+Around 2015-16, everybody I knew was going on these "shoots", to take pictures for their FB and IG feeds. 
+Going out did not feel like something people did for fun, they had a clear agenda of taking "Instagrammable" pictures, fake candid(“plandids”). You went home and start editing those pictures, I've known guys who'd face tune their facial features to look more "Instaworthy" and search for captions on Google and slap it on whether it was relevant to the picture or not as long as it sounded "cool".
 
 All of this to project some kind of personality/image. Some uniqueness among the hundred others who were doing literally the same thing. In the search for uniqueness, they lost their individuality.
 
@@ -63,15 +62,11 @@ Even when you go out to catch up socially with your friends, it isn’t a rare s
 
 > Louise : So what happened, were you bored in Manchester?
 >
-> Johnny : Was I bored? No, I wasn't fuckin' bored. I'm never bored. That's the trouble with everybody - you're all so bored. You've had nature explained to you and you're bored with it, you've had the living body explained to you and you're bored with it, you've had the universe explained to you and you're bored with it. So now you want cheap thrills and like plenty of them, and it don't matter how tawdry or vacuous they are as long as it's new, as long as it's new, as long as it flashes and fuckin' bleeps in forty fuckin' different colors. So whatever else you can say about me, I'm not fuckin' bored.
-
-— [Naked (1993) - David Thewlis as Johnny](https://www.imdb.com/title/tt0107653/characters/nm0000667)
+> Johnny : Was I bored? No, I wasn't fuckin' bored. I'm never bored. That's the trouble with everybody - you're all so bored. You've had nature explained to you and you're bored with it, you've had the living body explained to you and you're bored with it, you've had the universe explained to you and you're bored with it. So now you want cheap thrills and like plenty of them, and it don't matter how tawdry or vacuous they are as long as it's new, as long as it's new, as long as it flashes and fuckin' bleeps in forty fuckin' different colors. So whatever else you can say about me, I'm not fuckin' bored. — [Naked (1993) - David Thewlis as Johnny](https://www.imdb.com/title/tt0107653/characters/nm0000667)
 
 I firmly believe in Unix philosophy on software:
 
-> Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
-
-— via [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
+> Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features". — via [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 Every software wants to be like every other software. Twitter is soon going to have "blogging" functionality for long-form content(there's that dumb word again). Whatever happened to Twitter Fleets?
 
@@ -103,9 +98,7 @@ The standards of beauty, love, sex and lifestyle that social media/internet port
 
 ## Ads & Free Will
 
-> If something is free, you’re the product.
-
-— variously attributed[^2]
+> If something is free, you’re the product. — variously attributed[^2]
 
 YouTube now shows at least 2 ads before playing a video. IG shows 1 ad after every 2 stories(?). It’s weird how people tolerate being made to watch ads. You can’t use third party clients:
 
