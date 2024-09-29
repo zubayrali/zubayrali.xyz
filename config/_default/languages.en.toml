@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Zubayr Ali"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "This is site description"
+logo = "200w.png"
+
+[params.author]
+name = "Zubayr Ali"
+email = "zubayrali@pm.me"
+image = "picasso.jpg"
+headline = "I'm only human"
+bio = "ServiceNow Developer"
+links = [
+    { email = "mailto:zubayrali@pm.me" },
+    { link = "https://link-to-some-website.com/" },
+]
+

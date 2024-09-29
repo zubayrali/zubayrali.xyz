@@ -1,0 +1,12 @@
+/* Disable blur effect on the menu */
+#menu-blur {
+    backdrop-filter: none !important;  /* Disable the backdrop filter */
+    -webkit-backdrop-filter: none !important;  /* For Safari */
+    opacity: 1 !important;  /* Set opacity to visible if needed */
+}
+
+/* Disable any blur applied to the header or navigation */
+.header, .navbar, .main-menu, .navigation {
+    backdrop-filter: none !important;  /* Ensure no blur effect */
+    -webkit-backdrop-filter: none !important;  /* For Safari */
+}

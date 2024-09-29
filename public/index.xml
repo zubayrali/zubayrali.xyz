@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zubayr Ali</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Zubayr Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zubayrali@pm.me (Zubayr Ali)</managingEditor>
+    <webMaster>zubayrali@pm.me (Zubayr Ali)</webMaster>
+    <copyright>© 2024 Zubayr Ali</copyright>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is an Article</title>
+      <link>http://localhost:1313/posts/this-is-an-article/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <author>zubayrali@pm.me (Zubayr Ali)</author>
+      <guid>http://localhost:1313/posts/this-is-an-article/</guid>
+      <description>This article discusses how to create a post in the Blowfish theme using Hugo.</description>
+      
+    </item>
+    
+    <item>
+      <title>Identity and Underemployment</title>
+      <link>http://localhost:1313/posts/identity-underemployment/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <author>zubayrali@pm.me (Zubayr Ali)</author>
+      <guid>http://localhost:1313/posts/identity-underemployment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Life on the Internet</title>
+      <link>http://localhost:1313/posts/life-on-the-internet/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <author>zubayrali@pm.me (Zubayr Ali)</author>
+      <guid>http://localhost:1313/posts/life-on-the-internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Knowledge Management</title>
+      <link>http://localhost:1313/posts/knowledge-management/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <author>zubayrali@pm.me (Zubayr Ali)</author>
+      <guid>http://localhost:1313/posts/knowledge-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stop Using WhatsApp</title>
+      <link>http://localhost:1313/posts/stop-whatsapp/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <author>zubayrali@pm.me (Zubayr Ali)</author>
+      <guid>http://localhost:1313/posts/stop-whatsapp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Why I Am Considering Veganism</title>
+      <link>http://localhost:1313/posts/consider-veganism/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <author>zubayrali@pm.me (Zubayr Ali)</author>
+      <guid>http://localhost:1313/posts/consider-veganism/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

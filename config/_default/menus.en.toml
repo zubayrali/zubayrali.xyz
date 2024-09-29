@@ -1,0 +1,108 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "t6IYBgbGS7"
+weight = 9998
+
+
+
+#[[main]]
+#  name = "Parent"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
+
+[[footer]]
+none = "none"
+
+[[footer]]
+pre = "sitemap"
+name = "Sitemap"
+url = "/sitemap.xml"
+identifier = "YGc6qAmwhH"
+weight = 9999
+
+[[footer]]
+pre = "copyright-thin"
+name = "Copyright"
+pageRef = "copyright"
+identifier = "dacK03cUOn"
+weight = 9995
+
+[[footer]]
+pre = "circle-info"
+name = "Privacy"
+pageRef = "privacy"
+identifier = "5GBle8FZTH"
+weight = 9996
+
+[[footer]]
+pre = "github"
+name = "source"
+url = "https://github.com/zubayrali/zubayrali.xyz"
+identifier = "aUjvRJdn7W"
+weight = 9996
