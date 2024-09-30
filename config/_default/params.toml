@@ -28,7 +28,6 @@ showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = true
 homepageImage = "bg.jpg"
 
 [article]
@@ -39,7 +38,6 @@ showDateOnlyInArticle = true
 showDateUpdated = true
 showAuthor = true
 showHero = true
-layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showDraftLabel = true
